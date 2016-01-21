@@ -1,0 +1,8 @@
+C:\Users\Student\Documents\Xu Han (Jack)\Drive\Drive\obj\x86\Debug\Drive.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Xu Han (Jack)\Drive\Drive\obj\x86\Debug\Drive.Form1.resources
+C:\Users\Student\Documents\Xu Han (Jack)\Drive\Drive\obj\x86\Debug\Drive.Properties.Resources.resources
+C:\Users\Student\Documents\Xu Han (Jack)\Drive\Drive\obj\x86\Debug\Drive.csproj.GenerateResource.Cache
+C:\Users\Student\Documents\Xu Han (Jack)\Drive\Drive\bin\Debug\Drive.exe
+C:\Users\Student\Documents\Xu Han (Jack)\Drive\Drive\bin\Debug\Drive.pdb
+C:\Users\Student\Documents\Xu Han (Jack)\Drive\Drive\obj\x86\Debug\Drive.exe
+C:\Users\Student\Documents\Xu Han (Jack)\Drive\Drive\obj\x86\Debug\Drive.pdb
